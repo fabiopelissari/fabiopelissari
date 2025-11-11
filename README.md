@@ -2,6 +2,8 @@
 
 **` Administrador de banco de dados `**
 
+Sou DBA e este repositório reúne scripts, utilitários e boas práticas voltados à administração, monitoração e otimização de bancos de dados, desenvolvidos ao longo da minha carreira.
+
 <!--
 **fabiopelissari/fabiopelissari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
